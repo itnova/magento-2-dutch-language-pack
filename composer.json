@@ -3,7 +3,7 @@
   "description": "Dutch language package for Magento 2",
   "homepage": "https://www.mageplaza.com",
   "type": "magento2-language",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "license": [
